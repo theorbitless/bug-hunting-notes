@@ -49,9 +49,12 @@ bug-hunting-notes/
 | HTTP & HTTPS | ✅ selesai |
 | Cookie & Session | ✅ selesai |
 | SOP & CORS | ✅ selesai |
-| Subdomain Enumeration | 🔄 sedang belajar |
+| Subdomain Enumeration | ✅ selesai |
+| XSS — Reflected Lab 1 & 2 | ✅ selesai |
+| XSS — Stored Lab 1 | ✅ selesai |
+| XSS — Context & Payload Real | ✅ selesai |
+| XSS — Curi Cookie (Stage 3) | 🔄 sedang belajar |
 | Burp Suite | ⏳ belum |
-| XSS | ⏳ belum |
 | SQLi | ⏳ belum |
 | IDOR | ⏳ belum |
 | CSRF | ⏳ belum |
